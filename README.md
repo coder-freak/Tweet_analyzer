@@ -2,7 +2,7 @@
 
 ### Website Preview
 ##### Home Page
-<img src="webapp_images/home.PNG" width="900">
+<img src="webapp_images/home.png" width="900">
 
 ##### Tweets Page
 <img src="webapp_images/analyze.PNG" width="900">
@@ -11,7 +11,7 @@
 <img src="webapp_images/dashboard.PNG" width="900">
 
 ##### Server running
-<img src="webapp_images/home.PNG" width="900">
+<img src="webapp_images/SERVER RUNNING.png" width="900">
 ----
 
 ## Problem Description 📋
