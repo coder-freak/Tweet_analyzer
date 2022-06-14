@@ -42,7 +42,7 @@ $ python manage.py runserver
 
 ## Creator ✨
 
-| <a href="https://coder-freak.github.io" target="_blank">**Dhanush Balaji**</a> | 
+| <a href="https://coder-freak.github.io/dhanushb.github.io/" target="_blank">**Dhanush Balaji**</a> | 
 | :---: |
 | [![Dhanush](https://github.com/coder-freak.png?size=100)](https://coder-freak.github.io)    | 
 | <a href="https://github.com/coder-freak" target="_blank">`github.com/coder-freak`</a> | 
